@@ -133,11 +133,11 @@ Assignment file:
 
 If you’re going through our evaluation:
 
-1. Read **VISION.md**  
-2. Review **ROADMAP.md** to understand direction  
+1. Read **[VISION.md](VISION.md)**  
+2. Review **[ROADMAP.md])(ROADMAP.md)** to understand direction  
 3. Read through case studies  
 4. Complete the DevOps assignment  
-5. Submit your work as described in **CONTRIBUTING.md**  
+5. Submit your work as described in **[CONTRIBUTING.md](CONTRIBUTING.md)**  
 6. Use GitHub Issues to share your approach or ask clarifying questions
 
 We care deeply about:
