@@ -1,90 +1,99 @@
-# Public Case Studies (DevOps)
+# Public Case Studies
 
-These case studies highlight the type of work the DevOps vertical at ColoredCow focuses on — without exposing any confidential client information.  
-They help candidates understand our approach, engineering culture, and problem-solving style.
+These case studies illustrate the type of DevOps work we do at ColoredCow — with an emphasis not only on technical execution, but on **ownership**, **initiative**, and the **entrepreneurial mindset** we expect from our early DevOps team members.
 
----
-
-## Case Study 1: Improving CI/CD Reliability for a Fast-Growing Web Application
-
-### Context
-A product team faced recurring CI failures, long test cycles, and unpredictable deployment timelines.
-
-### What We Did
-- Audited CI/CD pipelines and removed redundant steps  
-- Migrated to a more modular GitHub Actions setup  
-- Introduced caching and parallel workflows  
-- Added observability hooks  
-
-### Outcome
-- ~40% faster pipelines  
-- More reliable releases  
-- Developers regained confidence in the deployment cycle  
+Early hires are not joining a fully established vertical.  
+You are helping **build** it — shaping the practices, improving systems, and creating the very assets (case studies, playbooks, frameworks) that future engineers will rely on.
 
 ---
 
-## Case Study 2: Infrastructure Standardization for Multi-Environment Deployment
+## ✨ Case Study 1 — Stabilising an EdTech Platform
 
-### Context
-A rapidly scaling SaaS team had inconsistent environments, causing “works on my machine” issues.
+### **Context**
+A social-sector EdTech platform serving thousands daily experienced frequent downtime, unpredictable releases, and a lack of monitoring.
 
-### What We Did
-- Standardized infrastructure using Terraform modules  
-- Introduced environment-specific workspaces  
-- Automated provisioning for staging & production  
+### **Our Role**
+We took end-to-end ownership:
+- Diagnosed root causes across infra, CI/CD, and application runtime
+- Built reliable pipelines and a stable deployment flow
+- Added monitoring, dashboards, and alerting
+- Containerised parts of the system for predictable environments
 
-### Outcome
-- Predictable, reproducible environments  
-- Faster onboarding for new engineers  
-- Reduced configuration drift  
+### **Outcomes**
+- **80% reduction in downtime**  
+- **Deployments became 6× faster**  
+- **~25% infra cost reduction**  
 
----
-
-## Case Study 3: Monitoring & Alerting Overhaul for a Mission-Critical Service
-
-### Context
-A critical API service had unstructured logs and alert fatigue. Incidents were discovered late.
-
-### What We Did
-- Implemented structured logging  
-- Created SLO-driven dashboards  
-- Consolidated alerts & introduced severity-based routing  
-- Automated on-call rotation setup  
-
-### Outcome
-- Faster incident detection  
-- 30–50% reduction in noisy alerts  
-- Better engineering visibility  
+### **How This Reflects Our Culture**
+This work demonstrates our approach:
+- step into ambiguous systems  
+- take charge of long-term reliability  
+- improve documentation & clarity  
+- fix what needs to be fixed, even if it isn’t “in the ticket”
 
 ---
 
-## Case Study 4: Cloud Cost Optimization for a Data-Heavy System
+## ✨ Case Study 2 — CI/CD Modernisation for a Digital Agency
 
-### Context
-A data processing workload experienced unpredictable cloud bills.
+### **Context**
+A digital agency running 20+ projects struggled with slow, inconsistent deployments due to manual steps.
 
-### What We Did
-- Performed cost profiling  
-- Right-sized compute instances  
-- Introduced autoscaling and S3 lifecycle policies  
-- Implemented tagging strategy for cost attribution  
+### **Our Role**
+We redesigned their deployment ecosystem:
+- Reusable CI/CD templates across multiple project types
+- Single-click deployment flows
+- Environment parity through containerisation
+- Standardised security and access policies
+- Developer-facing documentation
 
-### Outcome
-- 20–35% monthly cost reduction  
-- Clear visibility into spending  
-- Scalability without surprises  
+### **Outcomes**
+- **70% fewer release errors**  
+- **Uniform deployment process**  
+- **Improved developer confidence & velocity**
+
+### **How This Reflects Our Culture**
+Early DevOps engineers here don’t just “set up pipelines.”  
+They look at the broader developer experience and ask:
+- What slows the team down?
+- How can we design a system that scales?
+- What can we automate so others move faster?
 
 ---
 
-## How Candidates Should Use These Case Studies
+## ✨ Case Study 3 — SaaS Cost Optimisation
 
-These examples are meant to help candidates understand:
+### **Context**
+An early-stage SaaS product was struggling with rising cloud costs.
 
-- The types of problems we solve  
-- The mindset we expect  
-- The level of ownership and detail you should bring in your work  
-- The engineering standards we care about  
-- How DevOps contributes to overall product success  
+### **Our Role**
+We worked as DevOps engineers *and* business partners:
+- Identified unused or overprovisioned resources
+- Set lifecycle policies
+- Recommended storage & compute alternatives
+- Added usage monitoring and alerts
+- Advised on long-term architectural decisions
 
-These case studies are *illustrative*, not exhaustive.  
-Every DevOps challenge we tackle begins with curiosity, clarity, and collaboration.
+### **Outcomes**
+- **37% reduction in cloud cost in 3 weeks**
+- Better performance
+- A clear cost–value roadmap
+
+### **How This Reflects Our Culture**
+This shows our entrepreneurial side:
+- DevOps = business impact, not just tooling  
+- Decisions are taken with ROI, customer needs, and sustainability in mind  
+- Engineers are expected to think like owners, not executors  
+
+---
+
+## 🌱 Why We Publish These Case Studies
+
+We publish these case studies openly so candidates can understand:
+
+- The level of **ownership** and **thought process** we value  
+- The kind of **initiative** early hires are expected to take  
+- The **breadth and depth** (T-shaped engineering) expected in this vertical  
+- The **business-oriented mindset** behind our technical work
+
+If these resonate with you, you will likely enjoy working and building with us.
+
