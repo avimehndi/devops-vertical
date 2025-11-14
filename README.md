@@ -102,7 +102,7 @@ Our DevOps philosophy is built around:
 - **Continuous Improvement** → Iterate and refine  
 
 Document coming soon:  
-👉 **PHILOSOPHY.md**
+👉 **[PHILOSOPHY.md](PHILOSOPHY.md)**
 
 ---
 
