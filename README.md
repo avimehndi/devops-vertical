@@ -129,13 +129,9 @@ Assignment file:
 
 ---
 
-## 🧭 How Candidates Should Use This Repository
-
-If you’re going through our evaluation:
-
 ## 📚 How Candidates and Contributors Should Use This Repository
 
-This section guides you through exploring, contributing, and understanding our DevOps vertical.
+If you’re going through our evaluation: This section guides you through exploring, contributing, and understanding our DevOps vertical.
 
 ### 1. Read the Vision and Roadmap
 - Check out [VISION.md](VISION.md) for our long-term goals and principles.  
