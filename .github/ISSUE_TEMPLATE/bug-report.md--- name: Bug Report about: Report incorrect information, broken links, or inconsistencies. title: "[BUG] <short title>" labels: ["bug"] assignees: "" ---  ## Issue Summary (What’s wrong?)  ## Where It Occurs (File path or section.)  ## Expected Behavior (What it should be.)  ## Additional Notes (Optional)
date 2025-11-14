@@ -1,0 +1,19 @@
+---
+name: Bug Report
+about: Report incorrect information, broken links, or inconsistencies.
+title: "[BUG] <short title>"
+labels: ["bug"]
+assignees: ""
+---
+
+## Issue Summary
+(What’s wrong?)
+
+## Where It Occurs
+(File path or section.)
+
+## Expected Behavior
+(What it should be.)
+
+## Additional Notes
+(Optional)
